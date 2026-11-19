@@ -1,10 +1,9 @@
-
-
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  basePath: '/weather-app', //https://github.com/vahabmohammadi-dev/weather-app.git
+  output: 'export', 
+  basePath: '/weather-app', 
   images: {
-    unoptimized: false, 
+    unoptimized: true, 
   },
 };
 
