@@ -1,5 +1,5 @@
 
-# 🌤️ Weather app — Next.js
+# 🌤️ Weather App — Next.js
 
 کارت آب‌وهوای فارسی با داده‌های لحظه‌ای و پیش‌بینی ۵ روزه.
 
