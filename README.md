@@ -31,7 +31,7 @@
 
 ---bash----------------
 # ۱. کلون
-git clone https://github.com/your-username/weather-card.git
+git clone https://github.com/vahabmohammadi-dev/weather-app.git
 cd weather-card
 
 # ۲. نصب وابستگی‌ها
